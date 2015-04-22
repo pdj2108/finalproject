@@ -1,15 +1,53 @@
 Body{
-	text-align: center;}
-body {
-    background-image: url(http://www.citypictures.net/data/media/1/Manhattan_Skyline_From_Brooklyn_New_York.jpg);
- 
-} 
+	text-align: center;
+font-family: cursive;
+background-size: 100%;
+background-repeat: no-repeat;
+position: absolute;
+min-height: 100%;
+min-width: 100%;
+color: white;
+
+}
 p {
 	color:white;
 }
 ul{
 	color: white;
 }
-img{height: 400px; 
-	width: 400px; 
+.tabs{
+	color: white;
+}
+h1{
+	color: white;
+}
+h2{
+	color: white;
+}
+h3{
+	color: black;
+}
+a{ 
+color: white;
+text-decoration: none}
+.row{
+	color: white;
+}
+.color{
+color: white;
+}
+.home{
+	background-image: url(http://www.citypictures.net/data/media/1/Manhattan_Skyline_From_Brooklyn_New_York.jpg);
+}
+.quotes{
+	background-image:url("http://www.hdwallpapersinn.com/wp-content/uploads/2014/08/The-best-top-desktop-blue-wallpapers-blue-wallpaper-blue-background-hd-27.jpg");
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	background-repeat: no-repeat;
+}
+.resume{
+	background-image:url("http://www.publicdomainpictures.net/pictures/20000/nahled/red-background-with-a-pattern.jpg");
+}
+.thoughts{
+	background-image:url("http://i26.photobucket.com/albums/c138/freeling10/Backgrounds/Starry_sky_wallpaper_by_joyceeee.jpg");
 }
